@@ -1,6 +1,6 @@
 # Pokemon Analysis
 
-![pokemon analysis](https://github.com/amith7025/chatbot-for-fitfuel/blob/main/chatbot.png)
+![pokemon analysis](https://github.com/amith7025/pokemon-analysis/blob/main/sample/pokemon-1.png)
 
 ## Overview
 
